@@ -1,0 +1,1 @@
+SQL injection occurs when untrusted input is interpreted as part of a SQL command. Parameterized queries help prevent SQL injection. Source: OWASP SQL Injection Prevention Cheat Sheet, https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html

@@ -1,0 +1,1 @@
+[{"claim":"AES uses a 128-bit block size.","label":"Supported"},{"claim":"AES uses a 512-bit block size.","label":"Contradicted"},{"claim":"AES is used by 90 percent of organizations.","label":"Unsupported"},{"claim":"TLS 1.3 was published in 2018.","label":"Supported"},{"claim":"Parameterized queries help prevent SQL injection.","label":"Supported"}]

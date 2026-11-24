@@ -1,0 +1,15 @@
+streamlit
+sentence-transformers
+faiss-cpu
+pymupdf
+transformers
+torch
+sentencepiece
+pandas
+numpy
+scikit-learn
+plotly
+python-dotenv
+google-genai
+requests
+pytest
